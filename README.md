@@ -1,0 +1,2 @@
+# kako_tech_team7_AI
+카카오테크캠퍼스3단계_team7_AI서버
