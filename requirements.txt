@@ -1,0 +1,10 @@
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
+pydantic
+python-dateutil
